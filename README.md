@@ -1,4 +1,4 @@
-<img src="assets-src/icon.png" width="96" align="right" alt="Launcher3TV icon" />
+<img src="assets-src/icon.png" width="96" alt="Launcher3TV icon" />
 
 A straightforward, ad-free replacement for the Google TV launcher. Gives you a clean, stock-like Android TV home screen focused on your apps, Continue Watching, and TV inputs, with zero sponsored content, recommendations, or background bloat.
 
