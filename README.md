@@ -1,10 +1,6 @@
 # Launcher3TV
 
-<img src="assets-src/icon-reference.png" width="96" align="right" alt="Launcher3TV icon" />
-
 A lightweight Home screen for Android TV that looks and moves like Google TV's Apps screen, without the ads.
-
-It started as a replacement for the stock Google TV launcher on a 2 GB Skyworth TV. Layout, colours and timings were measured from Google TV itself. That meant screenshots, layout dumps and frame-by-frame screen recordings, not guesswork.
 
 ## What's on the screen
 
