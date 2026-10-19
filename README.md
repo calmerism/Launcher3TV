@@ -1,19 +1,21 @@
 # Launcher3TV
 
-A straightforward, ad-free replacement for the Google TV launcher. Gives you a clean, stock-like Android TV home screen focused on what you actually use — your apps, Continue Watching, and TV inputs — with zero sponsored content, recommendations, or background bloat.
+<img src="assets-src/icon.png" width="96" align="right" alt="Launcher3TV icon" />
+
+A straightforward, ad-free replacement for the Google TV launcher. Gives you a clean, stock-like Android TV home screen focused on your apps, Continue Watching, and TV inputs, with zero sponsored content, recommendations, or background bloat.
 
 ## Features
 
 - **Your apps**: Installed TV apps as clean tiles. Long-press any app to open, move/reorder, or view app info. The app order is saved.
 - **Continue watching**: Connects directly to the system Watch Next database (the same one Google TV reads). Shows thumbnails, progress bar, and resume action.
-- **Your TV**: Quick switching between inputs (Live TV, HDMI 1–3, with names detected over HDMI-CEC) alongside six settings tiles showing live status (Picture, Sound, Wi-Fi, Bluetooth, Storage, and Settings).
+- **Your TV**: Quick switching between inputs (Live TV, HDMI 1-3, with names detected over HDMI-CEC) alongside six settings tiles showing live status (Picture, Sound, Wi-Fi, Bluetooth, Storage, and Settings).
 - **Top bar**: Play Store search, screensaver shortcut, AMOLED black theme toggle, Settings shortcut, and clock.
 - **Zero ads**: No suggested shows, autoplay trailers, or promoted rows. Only the focused row expands its title.
 
 ## Performance
 
-- **Tiny footprint**: Plain Android Views and Leanback grid — no Compose, no heavy image loading libraries. The APK is under 500 KB.
-- **Low memory**: Runs in ~45–55 MB of RAM. Media posters are decoded to exact display size, cached on disk, and freed from memory when you switch to another app.
+- **Tiny footprint**: Plain Android Views and Leanback grid without Compose or heavy image loading libraries. The APK is under 500 KB.
+- **Low memory**: Runs in ~45-55 MB of RAM. Media posters are decoded to exact display size, cached on disk, and freed from memory when you switch to another app.
 - **Responsive navigation**: Focus and press animations use Material 3 springs; scrolling uses Android's native smooth scroller.
 
 ## Requirements
