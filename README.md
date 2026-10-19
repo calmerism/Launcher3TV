@@ -1,6 +1,6 @@
 # Launcher3TV
 
-A lightweight Home screen for Android TV that looks and moves like Google TV's Apps screen, without the ads.
+A replacement for Google TV launcher, a stock version without any ads and straightforward.
 
 ## What's on the screen
 
